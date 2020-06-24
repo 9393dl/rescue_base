@@ -1,2 +1,2 @@
-## rikirobot driver bsp is stm32, use ros_lib 
+## rescue robot driver bsp is stm32, use ros_lib 
 
